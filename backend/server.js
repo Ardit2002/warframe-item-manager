@@ -8,6 +8,9 @@ const authRoutes = require('./routes/auth');  // Authentication routes
 const userRoutes = require('./routes/user');
 const verifyToken = require('./middleware/authMiddleware');  // Middleware for JWT
 const Item = require('./models/items');  // Item model
+const assassinationBossesRoutes = require("./routes/assassinationBosses");
+app.use("/api/assassination-bosses", assassinationBossesRoutes);
+
 
 const app = express();
 const PORT = process.env.PORT || 5000;
