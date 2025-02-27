@@ -1,0 +1,13 @@
+{
+    "name": "Lieutenant Lech Kril",
+    "mission": "War",
+    "planet": "Mars",
+    "level_range": "11 - 13",
+    "warframe_drop": "Excalibur",
+    "weapon_drops": [],
+    "tile_set": "Grineer Settlement",
+    "credit_reward": 2000,
+    "additional_credit_reward": 0,
+    "image": "url_to_image"  // Optional, if you want to include an image URL of the boss
+  }
+  

@@ -1,0 +1,13 @@
+{
+    "name": "Alad V",
+    "mission": "Themisto",
+    "planet": "Jupiter",
+    "level_range": "18 - 20",
+    "warframe_drop": "Valkyr",
+    "weapon_drops": [],
+    "tile_set": "Corpus Gas City",
+    "credit_reward": 2700,
+    "additional_credit_reward": 0,
+    "image": "url_to_image"  // Optional, if you want to include an image URL of the boss
+  }
+  

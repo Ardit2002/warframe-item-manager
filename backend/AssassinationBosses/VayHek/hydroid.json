@@ -1,0 +1,13 @@
+{
+    "name": "Councilor Vay Hek",
+    "mission": "Oro",
+    "planet": "Earth",
+    "level_range": "20 - 25",
+    "warframe_drop": "Hydroid",
+    "weapon_drops": [],
+    "tile_set": "Grineer Forest",
+    "credit_reward": 2900,
+    "additional_credit_reward": 0,
+    "image": "url_to_image"  // Optional, if you want to include an image URL of the boss
+  }
+  

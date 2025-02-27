@@ -1,0 +1,13 @@
+{
+    "name": "Raptors",
+    "mission": "Naamah",
+    "planet": "Europa",
+    "level_range": "21 - 23",
+    "warframe_drop": "Nova",
+    "weapon_drops": [],
+    "tile_set": "Corpus Ice Planet",
+    "credit_reward": 3000,
+    "additional_credit_reward": 0,
+    "image": "url_to_image"  // Optional, if you want to include an image URL of the boss
+  }
+  

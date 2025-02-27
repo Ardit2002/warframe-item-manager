@@ -1,0 +1,12 @@
+{
+  "name": "Captain Vor",
+  "mission": "Tolstoj",
+  "planet": "Mercury",
+  "level_range": "8 - 10",
+  "warframe_drop": "",
+  "weapon_drops": ["Seer"],
+  "tile_set": "Corpus Ship",
+  "credit_reward": 1700,
+  "additional_credit_reward": 0,
+  "image": "url_to_image"  // Optional, if you want to include an image URL of the boss
+}

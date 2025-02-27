@@ -1,0 +1,13 @@
+{
+    "name": "Jordas Golem",
+    "mission": "Jordas Golem Assassinate",
+    "planet": "Eris",
+    "level_range": "32 - 34",
+    "warframe_drop": "Atlas",
+    "weapon_drops": [],
+    "tile_set": "Infested Ship",
+    "credit_reward": 4100,
+    "additional_credit_reward": 0,
+    "image": "url_to_image"  // Optional, if you want to include an image URL of the boss
+  }
+  

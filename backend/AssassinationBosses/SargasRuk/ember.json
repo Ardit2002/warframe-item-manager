@@ -1,0 +1,13 @@
+{
+    "name": "General Sargas Ruk",
+    "mission": "Tethys",
+    "planet": "Saturn",
+    "level_range": "24 - 26",
+    "warframe_drop": "Ember",
+    "weapon_drops": [],
+    "tile_set": "Grineer Galleon",
+    "credit_reward": 3300,
+    "additional_credit_reward": 0,
+    "image": "url_to_image"  // Optional, if you want to include an image URL of the boss
+  }
+  

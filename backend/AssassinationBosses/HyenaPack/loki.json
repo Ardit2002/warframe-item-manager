@@ -1,0 +1,13 @@
+{
+    "name": "Hyena Pack",
+    "mission": "Psamathe",
+    "planet": "Neptune",
+    "level_range": "30 - 32",
+    "warframe_drop": "Loki",
+    "weapon_drops": [],
+    "tile_set": "Corpus Ship",
+    "credit_reward": 3900,
+    "additional_credit_reward": 0,
+    "image": "url_to_image"  // Optional, if you want to include an image URL of the boss
+  }
+  

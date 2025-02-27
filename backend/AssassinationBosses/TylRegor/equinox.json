@@ -1,0 +1,13 @@
+{
+    "name": "Tyl Regor",
+    "mission": "Titania",
+    "planet": "Uranus",
+    "level_range": "27 - 29",
+    "warframe_drop": "Equinox",
+    "weapon_drops": [],
+    "tile_set": "Grineer Sealab",
+    "credit_reward": 3600,
+    "additional_credit_reward": 0,
+    "image": "url_to_image"  // Optional, if you want to include an image URL of the boss
+  }
+  

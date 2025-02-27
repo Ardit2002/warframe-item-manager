@@ -1,0 +1,13 @@
+{
+    "name": "Ropalolyst",
+    "mission": "The Ropalolyst",
+    "planet": "Jupiter",
+    "level_range": "40 - 40",
+    "warframe_drop": "Wisp",
+    "weapon_drops": [],
+    "tile_set": "Corpus Gas City",
+    "credit_reward": 4900,
+    "additional_credit_reward": 0,
+    "image": "url_to_image"  // Optional, if you want to include an image URL of the boss
+  }
+  

@@ -1,0 +1,13 @@
+{
+    "name": "Kela De Thaym",
+    "mission": "Merrow",
+    "planet": "Sedna",
+    "level_range": "35 - 40",
+    "warframe_drop": "Saryn",
+    "weapon_drops": [],
+    "tile_set": "Grineer Asteroid",
+    "credit_reward": 4400,
+    "additional_credit_reward": 0,
+    "image": "url_to_image"  // Optional, if you want to include an image URL of the boss
+  }
+  

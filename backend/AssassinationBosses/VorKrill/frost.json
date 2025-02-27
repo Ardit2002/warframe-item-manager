@@ -1,0 +1,13 @@
+{
+    "name": "Captain Vor & Lieutenant Lech Kril",
+    "mission": "Exta",
+    "planet": "Ceres",
+    "level_range": "14 - 16",
+    "warframe_drop": "Frost",
+    "weapon_drops": ["Miter"],
+    "tile_set": "Grineer Shipyard",
+    "credit_reward": 2300,
+    "additional_credit_reward": 0,
+    "image": "url_to_image"  // Optional, if you want to include an image URL of the boss
+  }
+  

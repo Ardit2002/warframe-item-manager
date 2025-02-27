@@ -1,0 +1,13 @@
+{
+    "name": "Phorid",
+    "mission": "Phorid Alert",
+    "planet": "Invasion",
+    "level_range": "0 - 0",
+    "warframe_drop": "Nyx",
+    "weapon_drops": [],
+    "tile_set": "Grineer Asteroid",
+    "credit_reward": 0,
+    "additional_credit_reward": 0,
+    "image": "url_to_image"  // Optional, if you want to include an image URL of the boss
+  }
+  
